@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielFoo0310
-- 👀 I’m interested in electrical engineering, applied physics and industrial design
+- 👀 
 - 🌱 I’m currently learning electrical engineering
 
 <!---
